@@ -9,5 +9,4 @@ It is very simple and easy to use.
 
 My Technologies Used:
 
-Java.
-Android Studio code.
+Java. Android Studio code.
