@@ -1,4 +1,4 @@
-# Educatcatelog
+# Educatalog
 
 # Project Description
 
